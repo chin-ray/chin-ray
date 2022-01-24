@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/-React-blue" />
   <img src="https://img.shields.io/badge/-TypeScript-blue" />
   <img src="https://img.shields.io/badge/-Node-yellowgreen" />
-  
-  
 </span>
 
 <!--
