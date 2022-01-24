@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 🔭 My Skills
+## 👯 My Skills
 <span >
   <img src="https://img.shields.io/badge/-Vue-green" />
   <img src="https://img.shields.io/badge/-React-blue" />
@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-oringe" />
 </span>
 
+## 🔭 An interesting gadget
 ![dino](https://user-images.githubusercontent.com/55998023/150707007-55740e42-98e1-46b5-afb8-ae4afed52663.gif)
 
 
