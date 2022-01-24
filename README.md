@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <span >
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-oringe?style=logo=javascript" />
-  <img src="https://img.shields.io/badge/-Vue-green?logo=Vue" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6" />
+  <img src="https://img.shields.io/badge/-JavaScript-oringe" />
+  <img src="https://img.shields.io/badge/-Vue-green" />
   <img src="https://img.shields.io/badge/-React-blue" />
   <img src="https://img.shields.io/badge/-TypeScript-blue" />
   <img src="https://img.shields.io/badge/-Node-yellowgreen" />
