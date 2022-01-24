@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Vue-green" />
   <img src="https://img.shields.io/badge/-React-blue" />
-  <img src="" />
-  <img src="" />
+  <img src="https://img.shields.io/badge/-TypeScript-blue" />
+  <img src="https://img.shields.io/badge/-Node-yellowgreen" />
   
   
 </span>
