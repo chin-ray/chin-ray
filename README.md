@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6" />
   <img src="https://img.shields.io/badge/-JavaScript-oringe" />
+  <img src="https://img.shields.io/badge/-uniapp-green" />
+  <img src="https://img.shields.io/badge/-Taro-blue" />
 </span>
 
 
